@@ -1,0 +1,9 @@
+
+numpy
+numpy-base
+numpydoc
+tensorflow
+matplotlib
+pandas
+pathlib
+seaborn
