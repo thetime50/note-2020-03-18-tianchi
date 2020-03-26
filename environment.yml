@@ -14,5 +14,4 @@ dependencies:
   - pandas
   - pathlib
   - seaborn
-prefix: E:\ProgramData\Anaconda3
 
